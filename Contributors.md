@@ -1,3 +1,4 @@
+- Immanuel 
 - [Janmejay Shibaprasad Mahanta](https://github.com/janmejay1438)
 - [Saiteja]
 - [Kamrul Hossain](https://github.com/kamrullab) - EliteKamrul | Code • Learn • Build
@@ -7,7 +8,9 @@
 - [Dotify_71](https://github.com/Dotify_71)
 - [Abdul-Rehman](https://github.com/raoabdulrehman29-dev)
 - [Matsuda](https://github.com/matsudaushekage) — DevOps student
+- [Manaswini Saroja Reddy Karri](https://github.com/Manaswinisaroja) - Aspiring Entrepreneur
 - [xPayload](https://github.com/xPayload)
+- [x1n-Q](https://github.com/x1n-Q)
 - [Sarthak Bahal](https://github.com/sarthakbahal)
 - [Robert Stefan](https://github.com/rstefan84)
 - [Julia](https://github.com/JuliaArison)
@@ -15,6 +18,7 @@
 - [Christy](https://github.com/ChristyBK202)
 - [Shivansh Goel89](https://github.com/SHIVANSH-ux-ys)
 - [rud1x](https://github.com/rud1x)
+- [shreya] (https://github.com/Shreya1810-tech)
 - [coding-world-855]{https://github.com/coding-world855}
 - [Munish Kumar](https://github.com/munishmalhotra6230)
 - [170joeychua](https://github.com/170joeychua)
@@ -22,6 +26,7 @@
 - [Chirantan112](https://github.com/Chirantan112)
 - [1ESA1](https://github.com/1ESA1)
 - [Vaibhav Kumar](https://github.com/hudson-hornet-01)
+  [YManeesha](https://github.com/myadla1x-lab)
 - [Dhanush Raj](https://github.com/V-R-DhanushRaj)
 - [21f2001400](https://github.com/21f2001400-cloud)
 - [George Falcon](https://github.com/kanvastudio)
@@ -96,6 +101,7 @@ rashid adiyarambath
 - [Bhupesh Cholake](https://github.com/RealBhupesh)
 - [Bhuvanaesh R](https://github.com/Bhuvanaesh-R)
 - [Bianca Amberger](https://github.com/Bicxi)
+- [Bhargav Kallepally](https://github.com/BHARGAV-RUE)
 - [Bibek Baram](https://portfolio.bibekbaram.com.np)
 - [Bigerrr](https://github.com/Bigerrr)
 - [Bimal Ray](https://github.com/Bimal-ray99)
@@ -401,6 +407,7 @@ OAT
 - [Pavani](https://github.com/pavani42)
 - [Pavel Safonov](https://github.com/Powarar)
 - [Pavel Shegay](https://github.com/pavelshegay3)
+- [Peace Alliance](https://github.com/peaceall236)
 - [Peter Imoh Victor](https://github.com/peterimoh)
 - [Peter McGee](https://github.com/pmcgee-personal)
 - [Médéric DOMINICI](https://github.com/MedericDOMINICI)
@@ -509,6 +516,7 @@ OAT
 - [Sagar Tayde](https://github.com/sagartaydedev)
 - [Sagasra](https://github.com/Sagasra20)
 - [Sahar Mahmoudi](https://github.com/saharmahmoudi)
+- [Sara Bekele](https://github.com/sarabekele30-cyber)
 - [Sahil Ghag](https://github.com/Sahilghagg)
 - [Sahil Hossain](https://github.com/Sahil-Hossain-1429)
 - [Javvaji Shalini]
@@ -801,3 +809,5 @@ OAT
 - [maheshgoyal-sys](https://github.com/maheshgoyal-sys/)
 - [Yashvardhan Jani](https://github.com/YashvardhanJani)
 - [Manish Shinde](https://github.com/Manish-1415)
+- [jasxv](https://github.com/jasxv/learning-git)
+https://github.com/1276604737-cloud
